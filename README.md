@@ -19,3 +19,5 @@ I am proud that I had done the total project in this small span of time and had 
 1. Use of IBM cloud
 2. Use of Language translator
 3. Use of the Assembly API
+## RUN
+Just import the flow above to your node-red and change the API with yours.
